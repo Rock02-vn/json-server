@@ -1,0 +1,105 @@
+{
+  "projects": [
+    {
+      "projectName": "Ecmascript",
+      "members": 1,
+      "startDate": "17-12-2018",
+      "leader": "Maeve",
+      "status": "Chưa hoàn thành",
+      "updatedAt": "2022-05-28",
+      "id": 1
+    },
+    {
+      "projectName": "Javascript",
+      "members": "1",
+      "startDate": "10/5/2021",
+      "leader": "Kyle",
+      "status": "Đã hoàn thành",
+      "updatedAt": "2022-05-21",
+      "id": 2
+    },
+    {
+      "projectName": "Nodejs",
+      "members": "1",
+      "startDate": "8/3/2022",
+      "leader": "Vinhky",
+      "status": "Đã hoàn thành",
+      "updatedAt": "2022-05-19",
+      "id": 3
+    },
+    {
+      "projectName": "Typescript",
+      "members": "2",
+      "startDate": "2/3/2021",
+      "leader": "Kyle",
+      "status": "Chưa hoàn thành",
+      "createdAt": "2022-05-19",
+      "updatedAt": "2022-05-19",
+      "id": 4
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "employeeName": "Steve",
+      "employeeBirthDate": "13/7/1993",
+      "employeeAddress": "Washington"
+    },
+    {
+      "employeeName": "Maeve",
+      "employeeBirthDate": "17/2/2001",
+      "employeeAddress": "New York",
+      "updatedAt": "2022-05-21",
+      "id": 3
+    },
+    {
+      "employeeName": "Yen",
+      "employeeBirthDate": "25/7/2002",
+      "employeeAddress": "Ha Tinh",
+      "updatedAt": "2022-05-24",
+      "id": 4
+    },
+    {
+      "employeeName": "Jackson",
+      "employeeBirthDate": "7/5/1998",
+      "employeeAddress": "Milburn",
+      "updatedAt": "2022-05-28",
+      "id": 5
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "taskName": "Viết giao diện",
+      "taskDescription": "Viết giao diện bằng HTML,CSS3",
+      "projectId": 1,
+      "employeeId": 1,
+      "taskImplementer": "Steve",
+      "taskPriority": "Trung Bình",
+      "taskStatus": "Chưa hoàn thành",
+      "updatedAt": "2022-05-24"
+    },
+    {
+      "taskName": "Mua nước ngọt",
+      "taskDescription": "Bổ sung năng lượng cho các thành viên",
+      "taskImplementer": "Maeve",
+      "taskPriority": "Cao",
+      "projectId": 1,
+      "taskStatus": "Chưa hoàn thành",
+      "createdAt": "2022-05-23",
+      "updatedAt": "2022-05-23",
+      "id": 2
+    },
+    {
+      "taskName": "Thiết kế database",
+      "taskDescription": "Thiết kế database để các thành viên sử dụng",
+      "taskImplementer": "Tom",
+      "taskPriority": "Trung Bình",
+      "projectId": 2,
+      "taskStatus": "Chưa hoàn thành",
+      "createdAt": "2022-05-23",
+      "updatedAt": "2022-05-24",
+      "id": 3
+    }
+  ]
+}
