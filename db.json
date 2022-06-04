@@ -101,5 +101,21 @@
       "updatedAt": "2022-05-24",
       "id": 3
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "displayName": "Yến Yến",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/AOh14GhUigrReywgtRTgeW77KiP1up9ro5ruHpIla3bmnQ=s96-c",
+      "uid": "dRU4qwazWjcgKIvdtIK3P68I9vq1",
+      "movieId": 66732
+    },
+    {
+      "id": 2,
+      "displayName": "Crush",
+      "photoUrl": "https://lh3.googleusercontent.com/a-/AOh14GhUigrReywgtRTgeW77KiP1up9ro5ruHpIla3bmnQ=s96-c",
+      "uid": "dRU4qwazWjcgKIvdtIK3P68I9vq1",
+      "movieId": 66732
+    }
   ]
 }
