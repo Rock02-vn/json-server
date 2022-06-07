@@ -101,25 +101,5 @@
       "updatedAt": "2022-05-24",
       "id": 3
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "displayName": "GD",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/AOh14GhUigrReywgtRTgeW77KiP1up9ro5ruHpIla3bmnQ=s96-c",
-      "uid": "dRU4qwazWjcgKIvdtIK3P68I9vq1",
-      "commentContent": "Phim rất hay ",
-      "movieId": 66732,
-      "createdAt": "2022-06-04"
-    },
-    {
-      "id": 2,
-      "displayName": "Kyle",
-      "photoUrl": "https://lh3.googleusercontent.com/a-/AOh14GhUigrReywgtRTgeW77KiP1up9ro5ruHpIla3bmnQ=s96-c",
-      "uid": "dRU4qwazWjcgKIvdtIK3P68I9vq1",
-      "commentContent": "Xem cuốn thật sự",
-      "movieId": 66732,
-      "createdAt": "2022-06-04"
-    }
   ]
 }
