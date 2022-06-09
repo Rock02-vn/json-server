@@ -101,5 +101,15 @@
       "updatedAt": "2022-05-24",
       "id": 3
     }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "username": "vinky02",
+      "password": "17122002",
+      "role": "admin",
+      "name": "Kyle Wiley",
+      "Address": "New York"
+    }
   ]
 }
