@@ -110,6 +110,14 @@
       "role": "admin",
       "name": "Kyle Wiley",
       "adress": "New York"
+    },
+    {
+      "id": 2,
+      "username": "rock02",
+      "password": "17122002",
+      "role": "member",
+      "name": "Rocky",
+      "adress": "Washington"
     }
   ]
 }
