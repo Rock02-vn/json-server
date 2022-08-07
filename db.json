@@ -119,5 +119,329 @@
       "name": "Rocky",
       "adress": "Washington"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Jayden Dress",
+      "price": 520000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/img_0032_d96ba523f20c44cbad0495462a14fc93_grande.jpg",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Misty Dress",
+      "price": 490000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/img_0021_54b4d3ed229f4d5aaeb707b68ba055e2_grande.jpg",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Fairy Top",
+      "price": 390000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/img_2775_c36eb92deb1243e0936cccc9ff92d0cd_grande.jpg",
+      "status": " hot-product",
+      "category_id": 2
+    },
+    {
+      "id": 4,
+      "name": "Elise Skirt",
+      "price": 340000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/s8972_960f23e9017340088e93469b34fa5cb8_grande.jpg",
+      "status": " hot-product",
+      "category_id": 3
+    },
+    {
+      "id": 5,
+      "name": "Nía Skirt",
+      "price": 39000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/s8841_b59fe472b2094ec59790e1890683cc5d_grande.jpg",
+      "category_id": 3
+    },
+    {
+      "id": 6,
+      "name": "Kyla Jean",
+      "price": 480000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/sbs2026_ebad2615c43a4e4fa951a0f57464b8d5_grande.jpg",
+      "status": " hot-product",
+      "category_id": 4
+    },
+    {
+      "id": 7,
+      "name": "Mara Top",
+      "price": 320000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/sbs2094_35065c99ca7440de99d98a6a2d6f609a_grande.jpg",
+      "status": " hot-product",
+      "category_id": 2
+    },
+    {
+      "id": 8,
+      "name": "Candy Dress",
+      "price": 490000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/sbs109589_7a6d34c2d312405ca505de04802af531_grande.jpg",
+      "status": " hot-product",
+      "category_id": 1
+    },
+    {
+      "id": 9,
+      "name": "Josie Skirt",
+      "price": 340000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/s8928_da6ccc88fcd342e7a466a3359a545f21_grande.jpg",
+      "status": " hot-product",
+      "category_id": 3
+    },
+    {
+      "id": 10,
+      "name": "Hazel Dress",
+      "price": 550000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/sbs110098_bb33bde7d48e4ae89b9aa59366e718c0_grande.jpg",
+      "status": " hot-product",
+      "category_id": 1
+    },
+    {
+      "id": 11,
+      "name": "Brown Candy Top",
+      "price": 380000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/s9588_a1f89dbcc70248ac8afc4831675d0fc6_grande.jpg",
+      "category_id": 2
+    },
+    {
+      "id": 12,
+      "name": "Helena Skirt",
+      "price": 380000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/sbs-1476a_8e5716b0f0984322bd91cffe2c06c5d1_master.jpg",
+      "category_id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Đầm"
+    },
+    {
+      "id": 2,
+      "name": "Áo"
+    },
+    {
+      "id": 3,
+      "name": "Váy"
+    },
+    {
+      "id": 4,
+      "name": "Quần"
+    }
+  ],
+  "groceries": [
+    {
+      "id": 1,
+      "name": "Cải thìa 350g",
+      "price": 40000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/cai-thia-3-jpg-v-1569917481000.jpg?v=1570695306000",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Rau Lang 400g",
+      "price": 35000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/rau-lang-jpg-v-1569833415000.jpg?v=1570695320000",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Rau Má 250g",
+      "price": 24000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/rau-ma.jpg?v=1570441624000",
+      "status": " hot-product",
+      "category_id": 2
+    },
+    {
+      "id": 4,
+      "name": "Xà lách lô lô xanh 300g",
+      "price": 42000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/xa-lach-lo-lo-xanh.jpg?v=1569212822000",
+      "status": " hot-product",
+      "category_id": 3
+    },
+    {
+      "id": 5,
+      "name": "Xà lách xoong baby 250g",
+      "price": 45000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/xa-lach-xoong-bb-jpg-v-1569831976000.jpg?v=1570695319000",
+      "category_id": 3
+    },
+    {
+      "id": 6,
+      "name": "Rau dền 400g",
+      "price": 40000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/rau-den-jpg-v-1569915439000.jpg?v=1570695297000",
+      "status": " hot-product",
+      "category_id": 4
+    },
+    {
+      "id": 7,
+      "name": "Cải ngọt 350g",
+      "price": 40000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/cai-ngot-3-jpg-v-1569835429000.jpg?v=1570695324000",
+      "status": " hot-product",
+      "category_id": 2
+    },
+    {
+      "id": 8,
+      "name": "Xà lách ta 250g",
+      "price": 35000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/108359-1.jpg?v=1645157518000",
+      "status": " hot-product",
+      "category_id": 1
+    },
+    {
+      "id": 9,
+      "name": "Cải thìa trắng 300g",
+      "price": 27600,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/cai-thia-trang-jpg-v-1569917176000.jpg?v=1570695306000",
+      "status": " hot-product",
+      "category_id": 3
+    },
+    {
+      "id": 10,
+      "name": "Su su 350g",
+      "price": 25000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/su-su-bao-tu-1-jpg-v-1569832360000.jpg?v=1570695320000",
+      "status": " hot-product",
+      "category_id": 1
+    },
+    {
+      "id": 11,
+      "name": "Rau muống 400g",
+      "price": 40000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/rau-muong-jpg-v-1569833388000.jpg?v=15706953200000",
+      "category_id": 2
+    },
+    {
+      "id": 12,
+      "name": "Hẹ lá 120gr",
+      "price": 20000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/he-la-1-jpg-v-1569916555000.jpg?v=1570695303000",
+      "category_id": 2
+    },
+    {
+      "id": 13,
+      "name": "Bắp cải tím 300g",
+      "price": 22000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/bap-cai-tim-jpg-v-1569837096000.jpg?v=1570695325000",
+      "category_id": 2
+    },
+    {
+      "id": 14,
+      "name": "Rau tần ô 400g",
+      "price": 40000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/ta-n-o.jpg?v=1627016046000",
+      "category_id": 2
+    },
+    {
+      "id": 15,
+      "name": "Cải rún giẫy 350g",
+      "price": 40000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/cai-nhung-ray-70dd5be9-533f-4247-8d8a-f7212a2e4e8f-jpg-v-1569917592000.jpg?v=1570695306000",
+      "category_id": 2
+    },
+    {
+      "id": 16,
+      "name": "Rau cải ngồng 350g",
+      "price": 38000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/cai-ngong-1.jpg?v=1570442876000",
+      "category_id": 2
+    },
+    {
+      "id": 17,
+      "name": "Rau nhút 200g",
+      "price": 29200,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/rau-nhut-jpg-v-1569914900000.jpg?v=1570695298000",
+      "category_id": 2
+    },
+    {
+      "id": 18,
+      "name": "Hành paro (200-300g)",
+      "price": 24000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/hanh-paro-jpg-v-1569916834000.jpg?v=1570695304000",
+      "category_id": 2
+    },
+    {
+      "id": 19,
+      "name": "Bông hẹ 100g",
+      "price": 22000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/bong-he.jpg?v=1571130757000",
+      "category_id": 2
+    },
+    {
+      "id": 20,
+      "name": "Hành lá 90g",
+      "price": 20000,
+      "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/hanh-la-1.jpg?v=1571129618000",
+      "category_id": 2
+    }
+  ],
+  "sanphams": [
+    {
+      "id": 2,
+      "thumbnail": "https://product.hstatic.net/1000281824/product/ba9d4b1b139ed0c0898f_cb2b192222704cb98e98355c55c9d098_large.jpeg",
+      "name": "Quần Jean dài basic đen",
+      "price": 390000
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://product.hstatic.net/1000281824/product/z3441045905945_7180e407cbef5b9daf85693e34ec51bd_3eeff3fffdbe4e0c8f6b9bfa0f2a6946_large.jpg",
+      "name": "Áo thun xanh degrey",
+      "price": 320000
+    },
+    {
+      "name": "Áo thun limited Cafe",
+      "thumbnail": "https://product.hstatic.net/1000281824/product/87c1db292971e92fb060_db8a21d6da514aaa9f30fda1f9bfe622_large.jpg",
+      "price": 990000,
+      "updatedAt": "2022-08-06",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://product.hstatic.net/1000281824/product/1651_5c6467a66f644ed2a5b77939cce3c643_large.jpg",
+      "name": "Áo túi logo be",
+      "price": 200000
+    },
+    {
+      "id": 7,
+      "thumbnail": "https://product.hstatic.net/1000281824/product/1636_45e9f264251248369a94ea1391887f7a_large.jpg",
+      "name": "Áo thun limited xanh",
+      "price": 690000
+    },
+    {
+      "name": "Áo xấu lên bờzz",
+      "thumbnail": "https://product.hstatic.net/1000281824/product/e22d538946e784b9ddf6_48f899e374544620898cf48bca946b76_large.jpeg",
+      "price": 240000,
+      "updatedAt": "2022-08-06",
+      "id": 8
+    },
+    {
+      "name": "Túi trà sữa",
+      "thumbnail": "https://product.hstatic.net/1000281824/product/af1c48c28dd44f8a16c5_d0251835cb8e413685bcb893fb9d3c2b_large.jpeg",
+      "price": 220000,
+      "createdAt": "2022-08-04",
+      "updatedAt": "2022-08-04",
+      "id": 10
+    },
+    {
+      "name": "Quần xoài đen",
+      "thumbnail": "https://product.hstatic.net/1000281824/product/03f0f7e8e51726497f06_83aa22caa81f402383b8115416750dfa_large.jpg",
+      "price": 183204,
+      "createdAt": "2022-08-06",
+      "updatedAt": "2022-08-06",
+      "id": 11
+    },
+    {
+      "name": "Áo thun hàn quốc hồng",
+      "thumbnail": "https://product.hstatic.net/1000281824/product/1697_b249e82bd2774cbaa76cd6164cb13c6b_large.jpg",
+      "price": 190000,
+      "createdAt": "2022-08-06",
+      "updatedAt": "2022-08-06",
+      "id": 12
+    }
   ]
 }
