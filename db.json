@@ -1,133 +1,5 @@
 {
-  "projects": [
-    {
-      "projectName": "Ecmascript",
-      "members": 1,
-      "startDate": "17-12-2018",
-      "leader": "Maeve",
-      "status": "Chưa hoàn thành",
-      "updatedAt": "2022-05-28",
-      "id": 1
-    },
-    {
-      "projectName": "Javascript",
-      "members": "1",
-      "startDate": "10/5/2021",
-      "leader": "Kyle",
-      "status": "Đã hoàn thành",
-      "updatedAt": "2022-05-21",
-      "id": 2
-    },
-    {
-      "projectName": "Nodejs",
-      "members": "1",
-      "startDate": "8/3/2022",
-      "leader": "Vinhky",
-      "status": "Đã hoàn thành",
-      "updatedAt": "2022-05-19",
-      "id": 3
-    },
-    {
-      "projectName": "Typescript",
-      "members": "2",
-      "startDate": "2/3/2021",
-      "leader": "Kyle",
-      "status": "Chưa hoàn thành",
-      "createdAt": "2022-05-19",
-      "updatedAt": "2022-05-19",
-      "id": 4
-    }
-  ],
-  "employees": [
-    {
-      "id": 1,
-      "employeeName": "Steve",
-      "employeeBirthDate": "13/7/1993",
-      "employeeAddress": "Washington"
-    },
-    {
-      "employeeName": "Maeve",
-      "employeeBirthDate": "17/2/2001",
-      "employeeAddress": "New York",
-      "updatedAt": "2022-05-21",
-      "id": 3
-    },
-    {
-      "employeeName": "Yen",
-      "employeeBirthDate": "25/7/2002",
-      "employeeAddress": "Ha Tinh",
-      "updatedAt": "2022-05-24",
-      "id": 4
-    },
-    {
-      "employeeName": "Jackson",
-      "employeeBirthDate": "7/5/1998",
-      "employeeAddress": "Milburn",
-      "updatedAt": "2022-05-28",
-      "id": 5
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "taskName": "Viết giao diện",
-      "taskDescription": "Viết giao diện bằng HTML,CSS3",
-      "projectId": 1,
-      "employeeId": 1,
-      "taskImplementer": "Steve",
-      "taskPriority": "Trung Bình",
-      "taskStatus": "Chưa hoàn thành",
-      "updatedAt": "2022-05-24"
-    },
-    {
-      "taskName": "Mua nước ngọt",
-      "taskDescription": "Bổ sung năng lượng cho các thành viên",
-      "taskImplementer": "Maeve",
-      "taskPriority": "Cao",
-      "projectId": 1,
-      "taskStatus": "Chưa hoàn thành",
-      "createdAt": "2022-05-23",
-      "updatedAt": "2022-05-23",
-      "id": 2
-    },
-    {
-      "taskName": "Thiết kế database",
-      "taskDescription": "Thiết kế database để các thành viên sử dụng",
-      "taskImplementer": "Tom",
-      "taskPriority": "Trung Bình",
-      "projectId": 2,
-      "taskStatus": "Chưa hoàn thành",
-      "createdAt": "2022-05-23",
-      "updatedAt": "2022-05-24",
-      "id": 3
-    }
-  ],
-  "account": [
-    {
-      "id": 1,
-      "username": "vinky02",
-      "password": "17122002",
-      "role": "admin",
-      "name": "Kyle Wiley",
-      "adress": "New York"
-    },
-    {
-      "id": 2,
-      "username": "rock02",
-      "password": "17122002",
-      "role": "member",
-      "name": "Rocky",
-      "adress": "Washington"
-    }
-  ],
   "products": [
-    {
-      "id": 1,
-      "name": "Jayden Dress",
-      "price": 520000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/img_0032_d96ba523f20c44cbad0495462a14fc93_grande.jpg",
-      "category_id": 1
-    },
     {
       "id": 2,
       "name": "Misty Dress",
@@ -199,18 +71,22 @@
       "category_id": 1
     },
     {
-      "id": 11,
-      "name": "Brown Candy Top",
-      "price": 380000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/s9588_a1f89dbcc70248ac8afc4831675d0fc6_grande.jpg",
-      "category_id": 2
+      "name": "Erica Top",
+      "price": 390000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/0194_50711ea8e4e94638bb94edcf67ea2c33_master.jpg",
+      "category_id": 2,
+      "createdAt": "2022-08-13",
+      "updatedAt": "2022-08-13",
+      "id": 11
     },
     {
-      "id": 12,
-      "name": "Helena Skirt",
-      "price": 380000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/sbs-1476a_8e5716b0f0984322bd91cffe2c06c5d1_master.jpg",
-      "category_id": 3
+      "name": "Melida dress",
+      "price": 440000,
+      "thumbnail": "https://product.hstatic.net/1000370235/product/0788_b35df5f61df146afb6ed7a954fb23ccd_master.jpg",
+      "category_id": 3,
+      "createdAt": "2022-08-13",
+      "updatedAt": "2022-08-13",
+      "id": 12
     }
   ],
   "categories": [
@@ -378,70 +254,6 @@
       "price": 20000,
       "thumbnail": "https://bizweb.dktcdn.net/thumb/medium/100/365/460/products/hanh-la-1.jpg?v=1571129618000",
       "category_id": 2
-    }
-  ],
-  "sanphams": [
-    {
-      "id": 2,
-      "thumbnail": "https://product.hstatic.net/1000281824/product/ba9d4b1b139ed0c0898f_cb2b192222704cb98e98355c55c9d098_large.jpeg",
-      "name": "Quần Jean dài basic đen",
-      "price": 390000
-    },
-    {
-      "id": 4,
-      "thumbnail": "https://product.hstatic.net/1000281824/product/z3441045905945_7180e407cbef5b9daf85693e34ec51bd_3eeff3fffdbe4e0c8f6b9bfa0f2a6946_large.jpg",
-      "name": "Áo thun xanh degrey",
-      "price": 320000
-    },
-    {
-      "name": "Áo thun limited Cafe",
-      "thumbnail": "https://product.hstatic.net/1000281824/product/87c1db292971e92fb060_db8a21d6da514aaa9f30fda1f9bfe622_large.jpg",
-      "price": 990000,
-      "updatedAt": "2022-08-06",
-      "id": 5
-    },
-    {
-      "id": 6,
-      "thumbnail": "https://product.hstatic.net/1000281824/product/1651_5c6467a66f644ed2a5b77939cce3c643_large.jpg",
-      "name": "Áo túi logo be",
-      "price": 200000
-    },
-    {
-      "id": 7,
-      "thumbnail": "https://product.hstatic.net/1000281824/product/1636_45e9f264251248369a94ea1391887f7a_large.jpg",
-      "name": "Áo thun limited xanh",
-      "price": 690000
-    },
-    {
-      "name": "Áo xấu lên bờzz",
-      "thumbnail": "https://product.hstatic.net/1000281824/product/e22d538946e784b9ddf6_48f899e374544620898cf48bca946b76_large.jpeg",
-      "price": 240000,
-      "updatedAt": "2022-08-06",
-      "id": 8
-    },
-    {
-      "name": "Túi trà sữa",
-      "thumbnail": "https://product.hstatic.net/1000281824/product/af1c48c28dd44f8a16c5_d0251835cb8e413685bcb893fb9d3c2b_large.jpeg",
-      "price": 220000,
-      "createdAt": "2022-08-04",
-      "updatedAt": "2022-08-04",
-      "id": 10
-    },
-    {
-      "name": "Quần xoài đen",
-      "thumbnail": "https://product.hstatic.net/1000281824/product/03f0f7e8e51726497f06_83aa22caa81f402383b8115416750dfa_large.jpg",
-      "price": 183204,
-      "createdAt": "2022-08-06",
-      "updatedAt": "2022-08-06",
-      "id": 11
-    },
-    {
-      "name": "Áo thun hàn quốc hồng",
-      "thumbnail": "https://product.hstatic.net/1000281824/product/1697_b249e82bd2774cbaa76cd6164cb13c6b_large.jpg",
-      "price": 190000,
-      "createdAt": "2022-08-06",
-      "updatedAt": "2022-08-06",
-      "id": 12
     }
   ]
 }
