@@ -1,92 +1,23 @@
 {
   "products": [
     {
-      "id": 2,
-      "name": "Misty Dress",
-      "price": 490000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/img_0021_54b4d3ed229f4d5aaeb707b68ba055e2_grande.jpg",
-      "category_id": 1
-    },
-    {
-      "id": 3,
-      "name": "Fairy Top",
-      "price": 390000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/img_2775_c36eb92deb1243e0936cccc9ff92d0cd_grande.jpg",
-      "status": " hot-product",
-      "category_id": 2
-    },
-    {
-      "id": 4,
-      "name": "Elise Skirt",
-      "price": 340000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/s8972_960f23e9017340088e93469b34fa5cb8_grande.jpg",
-      "status": " hot-product",
-      "category_id": 3
-    },
-    {
-      "id": 5,
-      "name": "Nía Skirt",
-      "price": 39000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/s8841_b59fe472b2094ec59790e1890683cc5d_grande.jpg",
-      "category_id": 3
-    },
-    {
-      "id": 6,
-      "name": "Kyla Jean",
-      "price": 480000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/sbs2026_ebad2615c43a4e4fa951a0f57464b8d5_grande.jpg",
-      "status": " hot-product",
-      "category_id": 4
-    },
-    {
-      "id": 7,
-      "name": "Mara Top",
-      "price": 320000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/sbs2094_35065c99ca7440de99d98a6a2d6f609a_grande.jpg",
-      "status": " hot-product",
-      "category_id": 2
-    },
-    {
-      "id": 8,
-      "name": "Candy Dress",
-      "price": 490000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/sbs109589_7a6d34c2d312405ca505de04802af531_grande.jpg",
-      "status": " hot-product",
-      "category_id": 1
-    },
-    {
-      "id": 9,
-      "name": "Josie Skirt",
-      "price": 340000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/s8928_da6ccc88fcd342e7a466a3359a545f21_grande.jpg",
-      "status": " hot-product",
-      "category_id": 3
-    },
-    {
-      "id": 10,
-      "name": "Hazel Dress",
-      "price": 550000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/sbs110098_bb33bde7d48e4ae89b9aa59366e718c0_grande.jpg",
-      "status": " hot-product",
-      "category_id": 1
-    },
-    {
-      "name": "Erica Top",
-      "price": 390000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/0194_50711ea8e4e94638bb94edcf67ea2c33_master.jpg",
-      "category_id": 2,
-      "createdAt": "2022-08-13",
-      "updatedAt": "2022-08-13",
-      "id": 11
-    },
-    {
-      "name": "Melida dress",
-      "price": 440000,
-      "thumbnail": "https://product.hstatic.net/1000370235/product/0788_b35df5f61df146afb6ed7a954fb23ccd_master.jpg",
+      "name": "Test",
+      "price": 2500000,
+      "thumbnails": [
+        {
+          "thumbnail": "ehfheh"
+        }
+      ],
+      "id": 1,
       "category_id": 3,
-      "createdAt": "2022-08-13",
-      "updatedAt": "2022-08-13",
-      "id": 12
+      "category_slug": "ao",
+      "sizes": [
+        {
+          "name": "S",
+          "quantity": 2
+        }
+      ],
+      "status": "hot-product"
     }
   ],
   "categories": [
