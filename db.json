@@ -1,23 +1,190 @@
 {
   "products": [
     {
-      "name": "Test",
-      "price": 2500000,
+      "name": "Jasper Dress",
+      "price": "504000",
+      "quantity": 34,
+      "category_id": 1,
+      "category_slug": "dam",
+      "slug": "jasper-dress",
       "thumbnails": [
         {
-          "thumbnail": "ehfheh"
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F01.jpg?alt=media&token=d75f8a51-a653-4b08-89ca-2087ecf7d895"
+        },
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F02.jpg?alt=media&token=c7911b37-a049-4d7e-90c3-ad7d2a7b8a2e"
+        },
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F03.jpg?alt=media&token=513072f6-0b0b-4feb-b093-55bae097c719"
         }
       ],
-      "id": 1,
-      "category_id": 3,
-      "category_slug": "ao",
       "sizes": [
         {
           "name": "S",
-          "quantity": 2
+          "quantity": "24"
+        },
+        {
+          "name": "M",
+          "quantity": "10"
+        },
+        {}
+      ],
+      "id": 1
+    },
+    {
+      "name": "Lime Set",
+      "price": "512000",
+      "quantity": 54,
+      "category_id": 2,
+      "category_slug": "ao",
+      "slug": "lime-set",
+      "thumbnails": [
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F06.jpg?alt=media&token=ec542471-20ec-4f44-bf40-14f0e6fe7f6d"
+        },
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F04.jpg?alt=media&token=1147afe2-98d1-4d8e-937b-def2e5e71874"
+        },
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F05.jpg?alt=media&token=c020848b-82c0-4aa6-8d0a-9735e58aaaa7"
+        },
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F07.jpg?alt=media&token=4fb56c22-1952-4909-b2f2-5cb97dc33e2e"
         }
       ],
-      "status": "hot-product"
+      "sizes": [
+        {
+          "name": "S",
+          "quantity": "30"
+        },
+        {
+          "name": "M",
+          "quantity": "14"
+        },
+        {
+          "name": "L",
+          "quantity": "10"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Green Candy Dress",
+      "price": "360000",
+      "quantity": 23,
+      "category_id": 1,
+      "category_slug": "dam",
+      "slug": "green-candy-dress",
+      "thumbnails": [
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F10.jpg?alt=media&token=5cf96057-c519-4ccb-bd3b-f6c702e744fa"
+        },
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F08.jpg?alt=media&token=fd4e31fa-02a5-4676-beda-b2970fae77bb"
+        },
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F09.jpg?alt=media&token=eb4c5feb-c33f-4ef7-8af8-dd7fb56830a0"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "S",
+          "quantity": "10"
+        },
+        {},
+        {
+          "name": "L",
+          "quantity": "13"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Rose Skirt",
+      "price": "234000",
+      "quantity": 12,
+      "category_id": 3,
+      "category_slug": "vay",
+      "slug": "rose-skirt",
+      "thumbnails": [
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F11.jpg?alt=media&token=02ff9c9c-69e9-463c-b640-78358db1f902"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "S",
+          "quantity": "12"
+        },
+        {},
+        {}
+      ],
+      "id": 4
+    },
+    {
+      "name": "Berry Skirt",
+      "price": "224000",
+      "quantity": 76,
+      "category_id": 3,
+      "category_slug": "vay",
+      "slug": "berry-skirt",
+      "thumbnails": [
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F12.jpg?alt=media&token=c80c4844-770f-4a09-b067-c6b16e6f86a6"
+        },
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F13.jpg?alt=media&token=5abcdb43-204a-40c2-a74c-c50923024295"
+        },
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F14.jpg?alt=media&token=bfc28814-e5a8-4858-ba07-422695b9311a"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "S",
+          "quantity": "26"
+        },
+        {
+          "name": "M",
+          "quantity": "25"
+        },
+        {
+          "name": "L",
+          "quantity": "25"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Dona Top",
+      "price": "248000",
+      "quantity": 43,
+      "category_id": 2,
+      "category_slug": "ao",
+      "slug": "dona-top",
+      "thumbnails": [
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F16.jpg?alt=media&token=58e60c44-e5e8-4143-bb8e-2b02de3af776"
+        },
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F17.jpg?alt=media&token=b1ccac3a-8bce-45aa-9dfb-f922874e8308"
+        },
+        {
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pashi-admin.appspot.com/o/images%2F15.jpg?alt=media&token=76c8f9c1-3193-4951-8ec3-19a3b37e657b"
+        }
+      ],
+      "sizes": [
+        {},
+        {
+          "name": "M",
+          "quantity": "23"
+        },
+        {
+          "name": "L",
+          "quantity": "20"
+        }
+      ],
+      "id": 6
     }
   ],
   "categories": [
